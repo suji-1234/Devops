@@ -6,7 +6,7 @@
 
   <groupId>caramelit</groupId>
   <artifactId>app</artifactId>
-  <version>3.0</version>
+  <version>3.9.9</version>
   <packaging>war</packaging>
 
   <name>app Maven Webapp</name>
